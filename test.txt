@@ -1,1 +1,5 @@
 김세현
+
+git add .
+
+git commit -m "test"
